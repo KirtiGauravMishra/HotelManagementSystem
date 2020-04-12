@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Menu - Veg food template</title>
+	<link rel="stylesheet" href="css/style.css" type="text/css">
+	
+</head>
+<body>
+	<div id="page">
+		<div id="header">
+			<div id="sidebar">
+				<a href="index.html" id="logo"><img src="images/veg1.jpg" alt="LOGO" width="180" height="180"></a>
+				<div id="navigation">
+					<ul>
+						<li class="menu selected">
+							<a href="menu.html">Menu</a>
+							<div class="sub">
+								<a href="menu.html">Vegetarian food</a> <a href="menu.html" class="selected">Non-veg </a> <a href="menu.html">Extras</a> <a href="menu.html" class="last-child">Premium </a>
+							</div>
+							<span></span>
+						</li>
+						
+						
+					</ul>
+				</div>
+			</div>
+			<div id="menu-adbox">
+				<div class="details">
+					<h1>Vegetarian food</h1>
+					<p>
+						Wonderful vegetarian food Available here !
+					</p>
+				</div>
+			</div>
+		</div>
+		<div id="contents">
+			<ul id="gallery">
+				<li>
+					<a href="menu.html"> <img src="images/veg6.jpg" alt="Img" height ="200" width ="200"> <b>Veg food</b>Item 1</a>
+				</li>
+				<li>
+					<a href="menu.html"> <img src="images/veg1.jpg" alt="Img" height ="200" width ="200"> <b>Veg food</b> Item 2</a>
+				</li>
+				<li>
+					<a href="menu.html"> <img src="images/veg2.jpg" alt="Img" height ="200" width ="200"> <b>Veg food</b> Item 3</a>
+				</li>
+				<li>
+					<a href="menu.html"> <img src="images/veg3.jpg" alt="Img" height ="200" width ="200"> <b>Veg food</b>Item 4</a>
+				</li>
+				<li>
+					<a href="menu.html"> <img src="images/veg4.jpg" alt="Img" height ="200" width ="200"> <b>Veg food</b> Item 5</a>
+				</li>
+				<li>
+					<a href="menu.html"> <img src="images/veg5.jpg" alt="Img" height ="200" width ="200"> <b>Veg food</b> Item 6</a>
+				</li>
+				<li>
+					<a href="menu.html"> <img src="images/veg4.jpg" alt="Img" hheight ="200" width ="200"> <b>Veg food</b> Item 7</a>
+				</li>
+				<li>
+					<a href="menu.html"> <img src="images/veg2.jpg" alt="Img" height ="200" width ="200"> <b>Veg food</b> Item 8</a>
+				</li>
+				<li>
+					<a href="menu.html"> <img src="images/veg3.jpg" alt="Img" height ="200" width ="200"> <b>Veg food</b> Item 9</a>
+				</li>
+				<li>
+					<a href="menu.html"> <img src="images/veg4.jpg" alt="Img" height ="200" width ="200"> <b>Veg food</b> Item 10</a>
+				</li>
+				<li>
+					<a href="menu.html"> <img src="images/veg5.jpg" alt="Img" height ="200" width ="200"> <b>Veg food</b> Item 11</a>
+				</li>
+				<li>
+					<a href="menu.html"> <img src="images/veg2.jpg" alt="Img" height ="200" width ="200"> <b>Veg food</b> Item 12</a>
+				</li>
+			</ul>
+		</div>
+		<div id="footer">
+			<div class="header">
+				<div class="body">
+					<ul>
+						<li>
+							<h4>Veg food</h4>
+							<span>&gt; <a href="#header">item 1</a></span> <span>&gt; <a href="#header">item 2</a></span> <span>&gt; <a href="#header">item 3</a></span>
+						</li>
+						<li>
+							<h4>Veg- premium</h4>
+							<span>&gt; <a href="#header">item 1</a></span> <span>&gt; <a href="#header">item 2</a></span> <span>&gt; <a href="#header">item 3</a></span>
+						</li>
+						<li>
+							<h4>Veg-ultimate</h4>
+							<span>&gt; <a href="#header">item 1</a></span> <span>&gt; <a href="#header">item 2</a></span> <span>&gt; <a href="#header">item 3</a></span>
+						</li>
+						<li class="last-child">
+							<h4>Veg-Extras</h4>
+							<span>&gt; <a href="#header">item 1</a></span> <span>&gt; <a href="#header">item 2</a></span> <span>&gt; <a href="#header">item 3</a></span>
+						</li>
+					</ul>
+				</div>
+				<div class="footer">
+					<div id="connect">
+						<a href="http://abc.com/go/facebook/" target="_blank" class="facebook"></a> <a href="http://abc.com/go/twitter/" target="_blank" class="twitter"></a> <a href="http://abc.com/go/googleplus/" target="_blank" class="googleplus"></a> <a href="http://abc.com/go/vimeo/" target="_blank" class="vimeo"></a>
+					</div>
+					
+				</div>
+			</div>
+			
+		</div>
+	</div>
+</body>
+</html>
